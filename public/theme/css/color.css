@@ -1,0 +1,64 @@
+.cp-child-topbar,
+#footer .footer-bottom,
+.accor-testimonials .panel-default>.panel-heading,
+.happy-customers .owl-theme .owl-controls .owl-page.active span {
+    background-color: #f08113;
+}
+
+.gallery-caption h3,
+.about-testimonials h5,
+.about-development .content-box h3,
+.blog-hover a {
+    color: #f08113;
+}
+
+.cp-child-topbar .theme-language-currency .dropdown .dropdown-menu,
+.logo-nav .navigation ul li:hover,
+.logo-nav .navbar-default .navbar-nav .dropdown-menu,
+.home-services .service-box:hover .sicon,
+.home-banner .banner-caption,
+.gallery-caption .hicon:hover,
+.events-paralx .event-date,
+.pcontent.selected,
+.cp-mega-menu>ul>li>a:hover,
+.cp-mega-menu>ul>li:hover>a {
+    background-color: #e7521d;
+}
+
+.login a,
+.home-services .service-box a.readmore,
+.home-services .service-box:hover h3,
+.cp-home-welcome h3, .cp-home-welcome h3>a,
+.caring-content h2,
+.news-box .news-caption h3 a:hover,
+.cart-like a:hover,
+.f-readmore:hover,
+.footer-social a:hover,
+.inner-title .breadcrumb li a:hover,
+.page404v2 .title404 h1,
+.event-content h3,
+.play-icon a:hover,
+.comment-form .submit:hover,
+.widget h3,
+.blog-post h3 a:hover,
+.blog-with-sidebar .post-tools a:hover,
+.checkout-top a,
+.checkout-top .fa,
+.our-team .team-box h4,
+.team-social a:hover,
+.faq-box .faq-head h4,
+.services-paralx .ser-content strong,
+.howto-box h3,
+.welcome-content h2,
+.quote-paralax h3,
+.box-content h6,
+.know-our-mission .content-box h2,
+.what-we-do-paralx h3,
+.tour-wrap .tour-content h2,
+.tour-wrap .tour-content .team-social a:hover,
+.testimonials-main p,
+.more-clients a,
+.cp-home-peralax h2,
+.staff-content>p {
+    color: #e7521d;
+}
